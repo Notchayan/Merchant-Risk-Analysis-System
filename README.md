@@ -144,10 +144,10 @@ For detailed API usage, refer to the [API Documentation](https://winter-assignme
 
 Comprehensive documentation is available to help you understand and interact with the system:
 
-- [Risk Metrics Documentation](/documentation/risk_metrics)
-- [Data Generator Documentation](/documentation/data_generator)
-- [Database Schemas & Models](/documentation/database_schemas_models)
-- [Testing Guide](/docs/testing.md)
+- **API Documentation**: [https://winter-assignment.onrender.com/docs](https://winter-assignment.onrender.com/docs)
+- **Data Generator Documentation**: [docs/data_generator.md](docs/data_generator.md)
+- **Risk Metrics Documentation**: [docs/risk_metrics.md](docs/risk_metrics.md)
+- **Database Schemas & Models Documentation**: [docs/database_schemas_models.md](docs/database_schemas_models.md)
 
 ## Database
 
