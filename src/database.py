@@ -8,7 +8,7 @@ from sqlalchemy import text
 
 load_dotenv()
 
-# Get database URL from environment variable
+# Get database URL from environment variable .
 DATABASE_URL = os.getenv("DATABASE_URL")
 
 if DATABASE_URL is None:
